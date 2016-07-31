@@ -1,0 +1,6 @@
+framework module DKToolKit {
+  umbrella header "DKToolKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

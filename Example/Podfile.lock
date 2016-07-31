@@ -1,0 +1,16 @@
+PODS:
+  - DKToolKit (0.1.0)
+
+DEPENDENCIES:
+  - DKToolKit (from `../`)
+
+EXTERNAL SOURCES:
+  DKToolKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DKToolKit: 6adf7b3205c574cc3e97bb1b3c54ce3aee84ca7c
+
+PODFILE CHECKSUM: f7da43ad9ec0ab4abf98ff88977b273fcfee3c5a
+
+COCOAPODS: 1.0.1
